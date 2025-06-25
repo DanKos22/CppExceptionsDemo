@@ -7,7 +7,7 @@
  `..   `..     `..        `..
    `....
 
-Michelle Lynch
+Dan Koskiranta
 */
 
 #ifndef STDEXCEPT_H_INCLUDED
